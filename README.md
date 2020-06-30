@@ -1,2 +1,2 @@
 # Regression
-This is a repositary consisting of the template of the code to build different types of Regression model to evaluate and predict various results.
+This is a repositary consisting of the Python codes to build different types of Regression model to evaluate and predict various results.
